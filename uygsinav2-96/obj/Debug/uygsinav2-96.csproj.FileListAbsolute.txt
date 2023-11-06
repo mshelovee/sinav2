@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\bin\Debug\uygsinav2-96.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\bin\Debug\uygsinav2-96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\bin\Debug\uygsinav2-96.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2_96.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2_96.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\uygsinav2-96\uygsinav2-96\obj\Debug\uygsinav2-96.pdb
